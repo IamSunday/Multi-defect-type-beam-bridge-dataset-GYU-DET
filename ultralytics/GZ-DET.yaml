@@ -1,0 +1,12 @@
+# GZ-DET
+train: 		/train  # train images (relative to 'path') 128 images
+val: 			/valid # val images (relative to 'path') 128 images
+# Classes
+names:
+  0: Crack
+  1: Breakage
+  2: Comb
+  3: Hole
+  4: Reinforcement
+  5: Seepage
+
